@@ -23,6 +23,8 @@ The sections below organize my public projects into a few areas.
 
 **[PL94171](https://github.com/CoryMcCartan/PL94171)** is an R package for downloading and processing the first redistricting data released decennially by the U.S. Census Bureau under P.L. 94-171.
 
+**[ggredist](http://github.com/alarm-redist/ggredist)** is an R package for making areal maps, especially for districting plans.
+
 **[harm-redistricting](https://github.com/CoryMcCartan/harm-redistricting)** is replication code for [Individual and Differential Harm in Redistricting](https://osf.io/preprints/socarxiv/nc2x7/), a new set of tools for analyzing effects of districting plans on individuals and groups.
 
 **[midterms-22](https://github.com/CoryMcCartan/midterms-22)** is a dynamic Bayesian model to forecast the 2022 U.S. midterm elections, in collaboration with [Data for Progress](https://www.dataforprogress.org/).
