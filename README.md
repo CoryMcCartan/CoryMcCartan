@@ -3,11 +3,13 @@
 I am the Hoben and Patricia Thomas and Thomas and Ann Hettmansperger Early Career Professor of Statistics and a faculty affiliate in political science at Penn State University. My research focuses on methodological and applied problems in the social sciences, including elections, legislative redistricting, racial disparities, and missing data.
 Read more **[on my website](https://corymccartan.com/)**.
 
-The sections below organize my public projects into a few areas.
+The sections below organize my public projects into a few areas, with some cross-listing.
 
 ## Statistical modeling
 
 **[bases](https://github.com/CoryMcCartan/bases)** is a lightweight R package to create basis expansions of covariates for use in modeling functions. These allow kernel methods, approximate GPs (via random Fourier features), and other nonparametric methods to be used inside other R modeling functions.
+
+**[seine](https://github.com/CoryMcCartan/seine)** is an R package for estimating conditional means from aggregate data (i.e., ecological inference).
 
 **[adjustr](https://github.com/CoryMcCartan/adjustr)** is an R package for efficient Stan model sensitivity analysis using leave-one-out importance sampling.
 
