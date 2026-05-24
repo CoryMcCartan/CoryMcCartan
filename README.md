@@ -13,7 +13,9 @@ The sections below organize my public projects into a few areas, with some cross
 
 **[adjustr](https://github.com/CoryMcCartan/adjustr)** is an R package for efficient Stan model sensitivity analysis using leave-one-out importance sampling.
 
-**[conformalbayes](https://github.com/CoryMcCartan/conformalbayes)** is an R package for finite-sample calibration of predictive intervals for Stan models. 
+**[conformalbayes](https://github.com/CoryMcCartan/conformalbayes)** is an R package for finite-sample calibration of predictive intervals for Stan models.
+
+**[onnxr](https://github.com/CoryMcCartan/onnxr)** provides native R access to the Open Neural Network Exchange (ONNX) Runtime, which is a performant engine for running machine learning models that are saved to a standardized format.
 
 ## Elections and redistricting
 
@@ -52,9 +54,11 @@ Paper replication code is available in [birdie-replication](https://github.com/C
 
 **[tinytiger](https://github.com/alarm-redist/tinytiger)** is a lightweight alternative to the **tigris** package for downloading TIGER/Line shapefiles from the Census.
 
-## Tools for research and writing
+## Infrastructure
 
 **[wacolors](https://github.com/CoryMcCartan/wacolors)** is a set of colorblind-friendly palettes, both discrete and continuous.
+
+**[schmear](https://github.com/CoryMcCartan/schmear)** is a developer-facing R package for building structured data frame subtypes.
 
 **[legal](https://github.com/CoryMcCartan/legal)** is a Quarto template (via LaTeX) for legal filings and expert reports.
 
